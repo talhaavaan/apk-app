@@ -1,0 +1,6 @@
+{
+  "name": "T4LHA WALLS",
+  "description": "A premium modern Android wallpaper app with dark futuristic UI, smooth animations, AMOLED black theme, and fine category filters.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
